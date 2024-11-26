@@ -1,13 +1,13 @@
-# SoulCrosshair EXE Ver 1.3.0
+# SoulCrosshair Ver 1.3.0
 Crosshair X Alternative Completely Customizable Built-in Python
 Use any Custom Crosshair With No Limitations!
 After Downloading Unzip and run Start.bat (First Install Python 3.7+)
 
-If you want to run without download python you can download the exe also located in this GitHub in the folder Executables
-Alternativly, download the exe file only here
+If you want to run without downloading python you can download the exe also located in this GitHub in the folder Executables
+Alternatively, download the exe folder only here --> https://github.com/edison16a/SoulCrosshairEXE/tree/main
 
 # How To Use
-1. Create of find Crosshair
+1. Create of finding Crosshair
 2. Download the file
 3. Put it in this folder
 4. Select it
